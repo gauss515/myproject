@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git/ntender/spaceflights/mlruns/789573737589468885/bdb2ec1815094100b31ed47f623ed4eb/artifacts
+end_time: 1692355883786
+entry_point_name: ''
+experiment_id: '789573737589468885'
+lifecycle_stage: active
+run_id: bdb2ec1815094100b31ed47f623ed4eb
+run_name: __default__
+run_uuid: bdb2ec1815094100b31ed47f623ed4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692355861814
+status: 3
+tags: []
+user_id: gauss
